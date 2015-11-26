@@ -1,2 +1,3 @@
-# Directory-Life
-Directory Life repo
+# Directory Life
+Welcome in Directory Life repo!
+
